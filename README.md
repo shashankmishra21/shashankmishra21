@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **CureCircle**, **BugBase**, and **DevHub**
+- 🔭 Currently building **DevHub**
 - 💡 Passionate about **backend scalability**, **API design**, and **system architecture**
 - 🧠 Exploring **Cloud (AWS EC2, Nginx, Docker)** and **Machine Learning integrations**
 - 💻 Solving DSA problems every day on [LeetCode](https://leetcode.com/u/shashank_mishra_21)
@@ -20,7 +20,7 @@
 
 ### 🖥️ **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,chartjs,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ **Backend Development**
@@ -31,7 +31,7 @@
 
 ### 🗄️ **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
@@ -81,6 +81,6 @@
 ---
 
 ### ✨ Quote I Live By
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+> 🧩 “Keep building. Keep learning. Keep improving.” — *My developer mantra*
 
 ⭐ **Check out my repositories below to explore my work!**
