@@ -1,8 +1,8 @@
 # Hi, I'm Shashank Mishra 👋  
 
-🎓 Backend Engineer | AI-Powered Systems | Final Year CSE Student 
-💻 Node.js | TypeScript | PostgreSQL | Prisma | REST APIs  
-📍 India | Actively seeking Software Engineer / Backend roles  
+Backend Engineer | AI-Powered Systems | Final Year CSE  
+Node.js | TypeScript | PostgreSQL | Prisma | REST APIs  
+India | Actively seeking Software Engineer / Backend roles
 
 ---
 
@@ -44,7 +44,7 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 - Developed **15+ secure REST APIs** with JWT authentication, file uploads, and email automation  
 - Optimized MongoDB queries and schema design for better performance  
 
-➡ Repo: https://github.com/shashankmishra21/achievr  
+➡ Repo: [https://github.com/shashankmishra21/achievr ](https://github.com/OmkarMishr/HackTitans-AchievR.git) 
 
 ---
 
