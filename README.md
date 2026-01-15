@@ -17,11 +17,12 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 
 ## Core Skills  
 
-**Languages:** C++, JavaScript, TypeScript  
-**Backend:** Node.js, Express, REST APIs, JWT Authentication  
+**Languages:** JavaScript, TypeScript, C++  
+**Backend:** Node.js, Express, REST APIs, JWT Authentication, RBAC  
 **Databases:** PostgreSQL, MongoDB  
-**ORM & Tools:** Prisma, Git, Docker (Basics), Postman  
+**DevOps & Tools:** Docker, AWS EC2, S3, Nginx, PM2, CI/CD, Git, Prisma, Postman  
 **Frontend (Working Knowledge):** React, Next.js, Tailwind, Bootstrap  
+**Core CS:** Data Structures & Algorithms, OOP, API Optimization, Debugging
 
 ---
 
@@ -80,7 +81,7 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 
 ---
 
-## 🏆 Achievements & Leadership  
+## Achievements & Leadership  
 
 🏅 **Winner – Hack the Cosmos Hackathon (2025)**  
 
