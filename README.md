@@ -95,7 +95,7 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 ## Connect With Me  
 
 - 💼 LinkedIn: https://linkedin.com/in/mishrashashank2106  
-- 📧 Email: mishrashashank2106@gmail.com@gmail.com  
+- 📧 Email: mishrashashank2106@gmail.com  
 - 💻 Portfolio: http://shashankmishra.tech
 - 🧠 LeetCode: https://leetcode.com/u/shashank_mishra_21  
 
