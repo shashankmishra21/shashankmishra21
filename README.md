@@ -1,12 +1,12 @@
 # Hi, I'm Shashank Mishra 👋  
 
-🎓 Final Year CSE Student | Backend-Focused Developer  
+🎓 Backend Engineer | AI-Powered Systems | Final Year CSE Student 
 💻 Node.js | TypeScript | PostgreSQL | Prisma | REST APIs  
 📍 India | Actively seeking Software Engineer / Backend roles  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I am a backend-focused developer passionate about building **scalable APIs, database-driven systems, and clean system architectures**.  
 I enjoy solving real-world engineering problems, optimizing backend performance, and working on production-ready systems.
@@ -15,7 +15,7 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 
 ---
 
-## 🛠 Core Skills  
+## Core Skills  
 
 **Languages:** C++, JavaScript, TypeScript  
 **Backend:** Node.js, Express, REST APIs, JWT Authentication  
@@ -25,7 +25,7 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 
 ### 🔹 Infoverse AI – Enterprise RAG Platform *(In Progress)*  
 **Tech:** Node.js, TypeScript, PostgreSQL, Prisma, OpenAI API  
@@ -58,7 +58,7 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 
 ---
 
-## 🧠 DSA & Problem Solving  
+## DSA & Problem Solving  
 
 - Solved **150+ DSA problems** across arrays, hashing, recursion, DP, trees, and graphs  
 - Regularly practicing using **C++**  
@@ -66,7 +66,7 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 
 ---
 
-## 💼 Experience  
+## Experience  
 
 ### 🔹 Software Engineer Intern – Innodeed Systems  
 - Worked on backend modules for production applications  
@@ -91,11 +91,11 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 
 - 💼 LinkedIn: https://linkedin.com/in/mishrashashank2106  
-- 📧 Email: your-email@gmail.com  
-- 💻 Portfolio: https://shashankmishra.vercel.app  
+- 📧 Email: mishrashashank2106@gmail.com@gmail.com  
+- 💻 Portfolio: http://shashankmishra.tech
 - 🧠 LeetCode: https://leetcode.com/u/shashank_mishra_21  
 
 ---
