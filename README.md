@@ -1,86 +1,103 @@
-<h1 align="center">Hi 👋, I'm Shashank Mishra</h1>
-<h3 align="center">Backend Specialist | Full Stack Developer | Open Source Enthusiast</h3>
+# Hi, I'm Shashank Mishra 👋  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Final+Year+CSE+Student;Full+Stack+Developer;Backend+Specialist;Open+Source+Contributor;#200DaysOfGrindingDSA+💻;Always+learning+something+new+🚀" alt="Typing Animation" />
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 Currently building **DevHub**
-- 💡 Passionate about **backend scalability**, **API design**, and **system architecture**
-- 🧠 Exploring **Cloud (AWS EC2, Nginx, Docker)** and **Machine Learning integrations**
-- 💻 Solving DSA problems every day on [LeetCode](https://leetcode.com/u/shashank_mishra_21)
-- ⚡ **Fun fact:** I debug with coffee ☕ and deploy with confidence 🚀  
+🎓 Final Year CSE Student | Backend-Focused Developer  
+💻 Node.js | TypeScript | PostgreSQL | Prisma | REST APIs  
+📍 India | Actively seeking Software Engineer / Backend roles  
 
 ---
 
-## 🧩 Tech Stack
+## 🚀 About Me  
 
-### 🖥️ **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
-</p>
+I am a backend-focused developer passionate about building **scalable APIs, database-driven systems, and clean system architectures**.  
+I enjoy solving real-world engineering problems, optimizing backend performance, and working on production-ready systems.
 
-### ⚙️ **Backend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,python,cpp" />
-  <img src="https://skillicons.dev/icons?i=nginx,linux,docker" />
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### ☁️ **Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-### 📊 **Data Science / Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-5A5A5A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-</p>
-
-### 🧰 **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
+Currently building **Infoverse AI**, an enterprise-grade knowledge management platform using modern backend and AI technologies.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankmishra21&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankmishra21&theme=tokyonight" alt="GitHub Streak" height="165" />
-</p>
+## 🛠 Core Skills  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmishra21&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+**Languages:** C++, JavaScript, TypeScript  
+**Backend:** Node.js, Express, REST APIs, JWT Authentication  
+**Databases:** PostgreSQL, MongoDB  
+**ORM & Tools:** Prisma, Git, Docker (Basics), Postman  
+**Frontend (Working Knowledge):** React, Next.js, Tailwind, Bootstrap  
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://shashankmishraa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:mishrashashank2106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mishrashashank2106" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/shashank_mishra_21" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
+## 📌 Featured Projects  
+
+### 🔹 Infoverse AI – Enterprise RAG Platform *(In Progress)*  
+**Tech:** Node.js, TypeScript, PostgreSQL, Prisma, OpenAI API  
+- Designing a **multi-tenant backend system** with role-based access control  
+- Implementing **document ingestion, chunking, embeddings, and semantic search**  
+- Built secure authentication with company-level data isolation  
+- Focused on scalable backend architecture for enterprise use  
+
+➡ Repo: https://github.com/shashankmishra21/infoverse-ai  
 
 ---
 
-### ✨ Quote I Live By
-> 🧩 “Keep building. Keep learning. Keep improving.” — *My developer mantra*
+### 🔹 AchievR – AI-Assisted Certificate Verification Platform  
+**Tech:** JavaScript, Node.js, Express, MongoDB, Gemini API  
+- Built a **full-stack web application with 3 role-based dashboards**  
+- Developed **15+ secure REST APIs** with JWT authentication, file uploads, and email automation  
+- Optimized MongoDB queries and schema design for better performance  
 
-⭐ **Check out my repositories below to explore my work!**
+➡ Repo: https://github.com/shashankmishra21/achievr  
+
+---
+
+### 🔹 BrainCache – Knowledge Sharing & Notes Platform  
+**Tech:** Node.js, Express, MongoDB, React  
+- Designed APIs for content creation, retrieval, and user authentication  
+- Implemented modular backend services for scalability and maintainability  
+- Focused on clean API architecture and secure data handling  
+
+➡ Repo: https://github.com/shashankmishra21/braincache  
+
+---
+
+## 🧠 DSA & Problem Solving  
+
+- Solved **150+ DSA problems** across arrays, hashing, recursion, DP, trees, and graphs  
+- Regularly practicing using **C++**  
+- Following **Striver A2Z DSA Sheet**  
+
+---
+
+## 💼 Experience  
+
+### 🔹 Software Engineer Intern – Innodeed Systems  
+- Worked on backend modules for production applications  
+- Built and optimized REST APIs  
+- Improved database performance through query optimization  
+
+### 🔹 Software Engineer Intern – Aon Digicon  
+- Co-developed a full-stack web platform  
+- Implemented backend features including email automation and API logic  
+- Contributed to improving system performance and maintainability  
+
+---
+
+## 🏆 Achievements & Leadership  
+
+🏅 **Winner – Hack the Cosmos Hackathon (2025)**  
+
+🎯 **Campus Director – Hult Prize, BIT Durg**  
+- Led **100+ participants** and managed a **38-member cross-functional team**  
+- Strengthened **communication, coordination, and stakeholder management**  
+- Organized large-scale events and drove collaboration across technical & non-technical teams  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: https://linkedin.com/in/mishrashashank2106  
+- 📧 Email: your-email@gmail.com  
+- 💻 Portfolio: https://shashankmishra.vercel.app  
+- 🧠 LeetCode: https://leetcode.com/u/shashank_mishra_21  
+
+---
+
+⭐ If you find my work useful, feel free to star my repositories!
