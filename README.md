@@ -74,7 +74,7 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 - Built and optimized REST APIs  
 - Improved database performance through query optimization  
 
-### 🔹 Software Engineer Intern – Aon Digicon  
+### 🔹 Web Developer Intern – Aon Digicon  
 - Co-developed a full-stack web platform  
 - Implemented backend features including email automation and API logic  
 - Contributed to improving system performance and maintainability  
