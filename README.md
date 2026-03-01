@@ -125,10 +125,10 @@ Open to opportunities in:
 
 ## Let’s Connect
 
-GitHub: https://github.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourprofile  
-Portfolio: https://yourportfolio.com  
+GitHub: https://github.com/shashankmishra21  
+LinkedIn: https://www.linkedin.com/in/mishrashashank2106 
+Portfolio: http://shashankmishra.tech  
 
 ---
 
-⭐ I build backend systems that are scalable, secure, and production-ready.
+"Design for scale. Build for reliability. Deploy for the cloud"
