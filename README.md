@@ -55,7 +55,8 @@ Currently building **Infoverse AI**, an enterprise-grade knowledge management pl
 - Implemented modular backend services for scalability and maintainability  
 - Focused on clean API architecture and secure data handling  
 
-➡ Repo: https://github.com/shashankmishra21/braincache  
+➡ Repo Backend: https://github.com/shashankmishra21/brain-app  
+➡ Repo Frontend: https://github.com/shashankmishra21/Frontend-Brain-App
 
 ---
 
