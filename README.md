@@ -126,7 +126,7 @@ Open to opportunities in:
 ## Let’s Connect
 
 GitHub: https://github.com/shashankmishra21  
-LinkedIn: https://www.linkedin.com/in/mishrashashank2106 
+LinkedIn: https://www.linkedin.com/in/mishrashashank2106  
 Portfolio: http://shashankmishra.tech  
 
 ---
