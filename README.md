@@ -44,7 +44,7 @@ DBMS • Operating Systems • OOPS
 
 ---
 
-## BrainCache — Knowledge Management Platform
+## BrainCache - Knowledge Management Platform
 
 Production-grade backend built with TypeScript and Redis caching.
 
@@ -60,7 +60,7 @@ Production-grade backend built with TypeScript and Redis caching.
 
 ---
 
-## Infoverse AI — Enterprise RAG Backend Platform
+## Infoverse AI - Enterprise RAG Backend Platform
 
 Microservices-based Retrieval-Augmented Generation (RAG) system.
 
@@ -75,7 +75,7 @@ Microservices-based Retrieval-Augmented Generation (RAG) system.
 
 ---
 
-## AchievR — Digital Certification & Portfolio Platform
+## AchievR - Digital Certification & Portfolio Platform
 
 Cloud-deployed scalable backend supporting multi-role workflows.
 
@@ -92,8 +92,8 @@ Cloud-deployed scalable backend supporting multi-role workflows.
 
 # Experience
 
-## Software Engineer Intern — Innodeed Systems  
-May 2025 – July 2025
+## Software Engineer Intern - Innodeed Systems  
+May 2025 - July 2025
 
 - Developed and maintained 15+ production REST APIs
 - Implemented JWT authentication & role-based access control
@@ -105,9 +105,9 @@ May 2025 – July 2025
 
 # Achievements
 
-- Winner — Hack the Cosmos Hackathon (2025)
-- Runner-Up — The Forge Hackathon, IIT Bhilai (2026)
-- Campus Director — Hult Prize BIT Durg (Led 100+ participants & 38-member team)
+- Winner - Hack the Cosmos Hackathon (2025)
+- Runner-Up - The Forge Hackathon, IIT Bhilai (2026)
+- Campus Director - Hult Prize BIT Durg (Led 100+ participants & 38-member team)
 
 ---
 
