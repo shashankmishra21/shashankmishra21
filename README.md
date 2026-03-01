@@ -1,105 +1,134 @@
-# Hi, I'm Shashank Mishra 👋  
+# Hey, I'm Shashank Mishra 👋  
+Software Development Engineer (SDE) | Backend Engineer | Software Engineer (SWE)
 
-Backend Engineer | AI-Powered Systems | Final Year CSE  
-Node.js | TypeScript | PostgreSQL | Prisma | REST APIs  
-India | Actively seeking Software Engineer / Backend roles
-
----
-
-## About Me  
-
-I am a backend-focused developer passionate about building **scalable APIs, database-driven systems, and clean system architectures**.  
-I enjoy solving real-world engineering problems, optimizing backend performance, and working on production-ready systems.
-
-Currently building **Infoverse AI**, an enterprise-grade knowledge management platform using modern backend and AI technologies.
+I design and build scalable, secure, cloud-native backend systems engineered for performance and reliability.
+Focused on system design, database optimization, distributed architectures, and AI-driven backend platforms.
 
 ---
 
-## Core Skills  
+## Professional Summary
 
-**Languages:** JavaScript, TypeScript, C++  
-**Backend:** Node.js, Express, REST APIs, JWT Authentication, RBAC  
-**Databases:** PostgreSQL, MongoDB  
-**DevOps & Tools:** Docker, AWS EC2, S3, Nginx, PM2, CI/CD, Git, Prisma, Postman  
-**Frontend (Working Knowledge):** React, Next.js, Tailwind, Bootstrap  
-**Core CS:** Data Structures & Algorithms, OOP, API Optimization, Debugging
+Backend-focused Software Engineer experienced in designing modular, cloud-native backend systems. Strong in REST API development, authentication architectures (JWT + RBAC), database indexing, caching strategies, and production deployments using AWS & Docker.
+
+Solid foundation in Data Structures, System Design, DBMS, and Operating Systems.
 
 ---
 
-## Featured Projects  
+## Technical Skills
 
-### 🔹 Infoverse AI – Enterprise RAG Platform *(In Progress)*  
-**Tech:** Node.js, TypeScript, PostgreSQL, Prisma, OpenAI API  
-- Designing a **multi-tenant backend system** with role-based access control  
-- Implementing **document ingestion, chunking, embeddings, and semantic search**  
-- Built secure authentication with company-level data isolation  
-- Focused on scalable backend architecture for enterprise use  
+### Languages
+JavaScript • TypeScript • C++ • SQL  
 
-➡ Repo: https://github.com/shashankmishra21/infoverse-ai  
+### Backend Engineering
+Node.js • Express.js • REST API Design  
+JWT Authentication • Role-Based Access Control (RBAC)  
+Scalable Backend Design • Microservices Architecture  
+Modular Code Structure • Performance Optimization  
 
----
+### Databases
+MongoDB • PostgreSQL  
+Compound Indexing • Query Optimization • Aggregation Pipelines  
+Data Modeling • Pagination & Projection  
 
-### 🔹 AchievR – AI-Assisted Certificate Verification Platform  
-**Tech:** JavaScript, Node.js, Express, MongoDB, Gemini API  
-- Built a **full-stack web application with 3 role-based dashboards**  
-- Developed **15+ secure REST APIs** with JWT authentication, file uploads, and email automation  
-- Optimized MongoDB queries and schema design for better performance  
+### DevOps & Cloud
+Docker • AWS EC2 • AWS S3  
+Linux • Git • Postman  
 
-➡ Repo: [https://github.com/shashankmishra21/achievr ](https://github.com/OmkarMishr/HackTitans-AchievR.git) 
-
----
-
-### 🔹 BrainCache – Knowledge Sharing & Notes Platform  
-**Tech:** Node.js, Express, MongoDB, React  
-- Designed APIs for content creation, retrieval, and user authentication  
-- Implemented modular backend services for scalability and maintainability  
-- Focused on clean API architecture and secure data handling  
-
-➡ Repo Backend: https://github.com/shashankmishra21/brain-app  
-➡ Repo Frontend: https://github.com/shashankmishra21/Frontend-Brain-App
+### Core Computer Science
+Data Structures & Algorithms (200+ problems)  
+DBMS • Operating Systems • OOPS  
 
 ---
 
-## DSA & Problem Solving  
-
-- Solved **150+ DSA problems** across arrays, hashing, recursion, DP, trees, and graphs  
-- Regularly practicing using **C++**  
-- Following **Striver A2Z DSA Sheet**  
+# Featured Engineering Projects
 
 ---
 
-## Experience  
+## BrainCache — Knowledge Management Platform
 
-### 🔹 Software Engineer Intern – Innodeed Systems  
-- Worked on backend modules for production applications  
-- Built and optimized REST APIs  
-- Improved database performance through query optimization  
+Production-grade backend built with TypeScript and Redis caching.
 
-### 🔹 Web Developer Intern – Aon Digicon  
-- Co-developed a full-stack web platform  
-- Implemented backend features including email automation and API logic  
-- Contributed to improving system performance and maintainability  
+- Feature-based modular architecture
+- MongoDB compound indexing (25% query latency reduction)
+- Redis auto-invalidation caching (40ms → 5ms repeated queries)
+- Full-text search with relevance scoring
+- OWASP Top 10 compliant security (Helmet, rate limiting, NoSQL/XSS protection)
+- Centralized error handling middleware
 
----
-
-## Achievements & Leadership  
-
-🏅 **Winner – Hack the Cosmos Hackathon (2025)**  
-
-🎯 **Campus Director – Hult Prize, BIT Durg**  
-- Led **100+ participants** and managed a **38-member cross-functional team**  
-- Strengthened **communication, coordination, and stakeholder management**  
-- Organized large-scale events and drove collaboration across technical & non-technical teams  
+**Tech:** Node.js, TypeScript, MongoDB, Redis  
+ Live - https://braincache.vercel.app  
 
 ---
 
-## Connect With Me  
+## Infoverse AI — Enterprise RAG Backend Platform
 
-- 💼 LinkedIn: https://linkedin.com/in/mishrashashank2106  
-- 📧 Email: mishrashashank2106@gmail.com  
-- 💻 Portfolio: http://shashankmishra.tech
-- 🧠 LeetCode: https://leetcode.com/u/shashank_mishra_21  
+Microservices-based Retrieval-Augmented Generation (RAG) system.
+
+- Dockerized services (Embedding, Retrieval, LLM)
+- Qdrant vector database for semantic search
+- PostgreSQL for structured metadata
+- End-to-end embedding → vector retrieval → response generation pipeline
+- Concurrent-ready REST orchestration APIs
+
+**Tech:** Node.js, TypeScript, PostgreSQL, Qdrant, Docker  
+ Github - [https://github.com/shashankmishra21/infoverse-ai](https://github.com/shashankmishra21/infoverse-ai)  
 
 ---
 
-⭐ If you find my work useful, feel free to star my repositories!
+## AchievR — Digital Certification & Portfolio Platform
+
+Cloud-deployed scalable backend supporting multi-role workflows.
+
+- 4-role secure authentication system
+- Compound indexing & pagination (30% retrieval improvement)
+- Aggregation pipelines for dashboard analytics
+- Backend deployed on AWS EC2
+- Static frontend hosting via AWS S3
+
+**Tech:** Node.js, Express.js, MongoDB, AWS  
+ Live - [https://achievr-digital-certification-portfolio-platform](http://achievr-frontend-shashank-0121.s3-website.eu-north-1.amazonaws.com)
+
+---
+
+# Experience
+
+## Software Engineer Intern — Innodeed Systems  
+May 2025 – July 2025
+
+- Developed and maintained 15+ production REST APIs
+- Implemented JWT authentication & role-based access control
+- Reduced average API response time by 35% through MongoDB indexing & schema optimization
+- Improved backend reliability using validation, structured error handling, and production debugging
+- Worked in Agile environment with Git-based workflows & peer reviews
+
+---
+
+# Achievements
+
+- Winner — Hack the Cosmos Hackathon (2025)
+- Runner-Up — The Forge Hackathon, IIT Bhilai (2026)
+- Campus Director — Hult Prize BIT Durg (Led 100+ participants & 38-member team)
+
+---
+
+# Career Focus
+
+Open to opportunities in:
+
+- Software Development Engineer (SDE)
+- Software Engineer (SWE)
+- Backend Engineer
+- Platform Engineering
+- AI Backend / RAG Systems
+
+---
+
+## Let’s Connect
+
+GitHub: https://github.com/yourusername  
+LinkedIn: https://linkedin.com/in/yourprofile  
+Portfolio: https://yourportfolio.com  
+
+---
+
+⭐ I build backend systems that are scalable, secure, and production-ready.
